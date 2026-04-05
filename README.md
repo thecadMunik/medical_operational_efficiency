@@ -79,7 +79,7 @@ This dashboard focuses on the **operational side of hospital performance**. It h
 - workload and flow indicators
 
 ## 🖼️ Dashboard Preview
-
+![Dashboard Overview](https://github.com/thecadMunik/hospitality_operations/blob/main/images/dashboard1.png)
 
 # ❤️ Dashboard 2: Patient Care & Outcome Analysis
 
@@ -93,11 +93,9 @@ patient risk and abnormal vital analysis
 demographic outcome patterns
 chronic condition trends
 length-of-stay and care quality indicators
-🖼️ Dashboard Preview
 
-Add Dashboard 2 screenshot here
-
-![Patient Care and Outcome Analysis](insert-dashboard-2-image-link-here)
+# 🖼️ Dashboard Preview
+![Dashboard Overview](https://github.com/thecadMunik/hospitality_operations/blob/main/images/dashboard1.png)
 
 # 💡 Key Insights
 
