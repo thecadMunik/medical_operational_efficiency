@@ -13,13 +13,13 @@ This repository focuses on the two main analytical dashboards:
 > 📌 The write-up for the **Administrative Q&A** section is available in the **Administrative Q&A** folder here:  
 > [Administrative Q&A README](https://github.com/thecadMunik/medical_operational_efficiency/blob/main/administrative%20Q%26A/README.md)
 
----
+
 
 ## 🎯 Problem Statement
 
 Hospital inefficiencies and inconsistent patient outcomes can affect care quality, resource use, and overall performance. Understanding trends in admissions, patient risk, doctor responsiveness, readmissions, and outcomes helps management intervene early and improve hospital decision-making.
 
----
+
 
 ## 🎯 Project Objectives
 
@@ -31,7 +31,7 @@ This project was carried out to:
 - compare departmental performance using outcome and activity measures
 - support hospital leadership with data-driven insights for planning and intervention
 
----
+
 
 ## 🧰 Tools Used
 
@@ -39,7 +39,7 @@ This project was carried out to:
 - **Power Query**
 - **DAX (Data Analysis Expressions)**
 
----
+
 
 ## 🗂️ Datasets Used
 
@@ -50,7 +50,7 @@ This project uses **4 connected datasets**:
 3. **Patients**
 4. **Vitals**
 
----
+
 
 ## 🛠️ Approach
 
@@ -63,7 +63,7 @@ To complete the project, I followed a structured analytical process:
 5. Designed two dashboards to separate operational performance from patient care analysis  
 6. Generated insights and recommendations based on realistic hospital scenarios  
 
----
+
 
 # 📊 Dashboard 1: Hospital Operations Overview
 
@@ -79,7 +79,7 @@ This dashboard focuses on the **operational side of hospital performance**. It h
 - workload and flow indicators
 
 ## 🖼️ Dashboard Preview
-![Dashboard Overview](https://github.com/thecadMunik/hospitality_operations/blob/main/images/dashboard1.png)
+![Dashboard Overview](https://github.com/thecadMunik/medical_operational_efficiency/blob/main/dashboards/medic1.png)
 
 # ❤️ Dashboard 2: Patient Care & Outcome Analysis
 
@@ -95,7 +95,7 @@ chronic condition trends
 length-of-stay and care quality indicators
 
 # 🖼️ Dashboard Preview
-![Dashboard Overview](https://github.com/thecadMunik/hospitality_operations/blob/main/images/dashboard1.png)
+![Dashboard Overview](https://github.com/thecadMunik/medical_operational_efficiency/blob/main/dashboards/medic2.png)
 
 # 💡 Key Insights
 
@@ -125,16 +125,16 @@ The hospital should review staffing and workflow coverage in the busiest departm
 
 Staffing should also be aligned more closely with real demand timing. Hospitals usually experience concentrated activity around ward rounds, escalation periods, handovers, and evening deterioration windows. Matching coverage to those periods can improve responsiveness more effectively than spreading staff evenly across all hours.
 
-On the patient-care side, the hospital should strengthen its response to repeated high-risk or critical vital patterns. In real care settings, these are often the patients most likely to deteriorate further, require ICU escalation, or return through readmission. Earlier warning and faster intervention could reduce avoidable escalation.
+On the patient-care side, the hospital should strengthen its response to repeated high-risk or critical vital patterns. These are often the patients most likely to deteriorate further, require ICU escalation, or return through readmission. Earlier warning and faster intervention could reduce avoidable escalation.
 
 Departments with heavier ICU, readmitted, or deceased outcome patterns should be reviewed with context, not judged in isolation. In reality, poorer outcomes may reflect higher-acuity patient populations rather than poor care alone. A more realistic response is to combine outcome analysis with workload, chronic-condition burden, and response-time measures before making performance decisions.
 
 The hospital should also strengthen support for patients with chronic conditions, since those patients are often more vulnerable to relapse, delayed recovery, and repeat hospital use. Better continuity of care, follow-up planning, and transition monitoring would likely improve both patient outcomes and operational efficiency.
 
-Finally, I would recommend that the hospital pays close attention to patients leaving higher-acuity care, especially those moving out of ICU-level treatment. In real-life scenarios, patients may appear stable enough for transfer or discharge while still remaining medically fragile underneath. Better transition monitoring could reduce later deterioration, readmission, and poor outcomes.
+Finally, I would recommend that the hospital pays close attention to patients leaving higher-acuity care, especially those moving out of ICU-level treatment. Patients may appear stable enough for transfer or discharge while still remaining medically fragile underneath. Better transition monitoring could reduce later deterioration, readmission, and poor outcomes.
 
-# ✨ Overall Reflection
 
-What stood out most to me in this project is how closely hospital operations and patient outcomes are connected. The analysis made it clear that the hospital is not simply busy; it is managing a patient population with both operational pressure and clinical complexity.
 
-This project gave me the chance to analyze hospital data in a practical way that goes beyond reporting numbers. The dashboards help show where attention is needed, where patient risk may be increasing, and where operational or clinical improvements could make the greatest difference.
+
+> 📌 The write-up for the **Administrative Q&A** section is available in the **Administrative Q&A** folder here:  
+> [Administrative Q&A README](https://github.com/thecadMunik/medical_operational_efficiency/blob/main/administrative%20Q%26A/README.md)
